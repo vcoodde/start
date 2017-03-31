@@ -1,3 +1,7 @@
 print 'hello'
 print("222")
+<<<<<<< HEAD
 print('no change')
+=======
+y
+>>>>>>> origin/master
